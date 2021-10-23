@@ -1,12 +1,17 @@
 This is ncrypt program.
 
+
 How to compile
+
+
     make clean
     make
-  or simply run make from the root directiry.
+    or simply run make from the root directiry.
   
 
 Run
+
+
     ./ncrypt arch=32-5-1 L=2 gsize=5 intru=3 runsize=10
     
     here arch is architecture of the neural network.
