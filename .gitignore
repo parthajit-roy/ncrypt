@@ -1,4 +1,5 @@
 *.o
+pass.txt
 ctags
 /trash/*
 /chartspy/*
