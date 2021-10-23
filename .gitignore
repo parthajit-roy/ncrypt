@@ -1,0 +1,6 @@
+*.o
+ctags
+/trash/*
+/chartspy/*
+/charts/*
+/data/*
